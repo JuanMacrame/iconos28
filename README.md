@@ -18,6 +18,7 @@
 * A las 11:15am se cierra la puerta.
 * Hasta las 11:30am puedes entrar con retardo pero haciendo un [burpie](https://www.youtube.com/watch?v=_RvTpo84LYc) por cada minuto transcurrido desde las 11:00am, si no quieres hacer burpies, llega antes de las 11:15am.
 * La evaluación es continua, cada actividad tendrá un valor y al final de cada parcial se saca el promedio de todas tus actividades.
+* Al terminar cada clase desconectar y apagar equipos.
 
 ## Estudiantes:
 
@@ -37,5 +38,5 @@
 
 ### Primer Parcial:
 
-
-
+1. ¿De qué trata mi proyecto?
+1. Mapa de Sitio
