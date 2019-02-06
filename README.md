@@ -33,6 +33,8 @@
 | Angel | angelextremo@live.com | ? | ? | ? |
 | Rodrigo | hibridovgr@gmail.com | ? | ? | ? |
 | Mario | mariorojas_98@outlook.com | ? | ? | ? |
+| Tere | mentenblanco307@hotmail.com | ? | ? | ? |
+| Daniel | dsv94street@gmail.com | ? | ? | ? |
 
 ## Actividades:
 
