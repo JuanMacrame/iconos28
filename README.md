@@ -40,5 +40,7 @@
 
 ### Primer Parcial:
 
-1. ¿De qué trata mi proyecto?
-1. Mapa de Sitio
+1. ¿De qué trata mi proyecto? (clase 3).
+1. Mapa de Sitio (clase 3).
+1. Crear tu carpeta de proyecto con el Starter Template y la NavBar de Bootstrapt (clase 3).
+1. En la NavBar de Bootstrap implementa tu mapa de sitio. (clase 3).
